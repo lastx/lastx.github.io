@@ -1,12 +1,12 @@
 # Site settings
-title: 徐萌
+title: 萌一点
 email: mengxu133@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  欢迎来到徐萌的博客！:D
+  欢迎来到<萌一点>的博客！:D
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://meng.click" # the base hostname & protocol for your site
-# twitter_username: 
-# github_username:  jekyll
+# twitter_username:
+github_username:  lastx
 
 # Build settings
 markdown: kramdown
