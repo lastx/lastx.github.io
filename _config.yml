@@ -7,6 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: mengclick
 #google_analytics:
+title: 萌一点
 
 defaults:
   -
@@ -29,7 +30,10 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
+# sidebar_background_image: http
+
 BASE_PATH:
 
 # pages
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
